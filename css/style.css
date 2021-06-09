@@ -19,3 +19,28 @@
 	vertical-align: middle;
 	padding-right: 15px;
 }
+/* conteiner */
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.banner{
+	display: block;
+}
+.left{
+	width: 570px;
+	height: 225px;
+	background-color: red;
+	margin-right: 30px;
+}
+.right{
+	width: 570px;
+	height: 225px;
+	background-color: red;
+}
+
+/* footer */
+.footer{
+	width: 1170px;
+	margin: 0 auto;
+}
