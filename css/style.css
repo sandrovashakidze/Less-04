@@ -1,0 +1,21 @@
+/* base style */
+.d-inline-block{
+	display: inline-block;
+}
+/* 
+  index.html
+*/
+/* navigation */
+.content{
+    width: 100%;
+    background-color: #00afaf;
+	padding: 10px;
+}
+.logo{
+	vertical-align: middle;
+	margin-right: 30px;
+}
+.nav-a{
+	vertical-align: middle;
+	padding-right: 15px;
+}
