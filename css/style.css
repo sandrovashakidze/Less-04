@@ -128,8 +128,7 @@
   contact.html
 */
 .container2{
-	width: 1366px;
-	margin: 0 auto;
+	width: 100%;
 	background-color: #E6E6E6;
 	padding: 39px 95px 65px  70px;
 }
