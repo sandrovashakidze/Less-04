@@ -23,8 +23,11 @@
 	font-size: 22px;
 }
 .nav-a:hover{
-	color: red;
+	color: green;
 	cursor: pointer;
+}
+.active{
+	color: #ee4036;
 }
 
 /* conteiner */
