@@ -1,15 +1,46 @@
-/* geo */
+/* 
+     geo 
+*/
 @font-face {
     font-family: 'BPG Irubaqidze';
-    src: url('../fonts/geo/bpg-irubaqidze-webfont.eot'); /* IE9 Compat Modes */
-    src: url('../fonts/geo/bpg-irubaqidze-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('../fonts/geo/bpg-irubaqidze-webfont.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/geo/bpg-irubaqidze-webfont.woff') format('woff'), /* Pretty Modern Browsers */
-         url('../fonts/geo/bpg-irubaqidze-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('../fonts/geo/bpg-irubaqidze-webfont.svg#bpg_irubaqidzeregular') format('svg'); /* Legacy iOS */
+    src: url('../fonts/geo/mbt/bpg-irubaqidze-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/geo/mbt/bpg-irubaqidze-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/geo/mbt/bpg-irubaqidze-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/geo/mbt/bpg-irubaqidze-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/geo/mbt/bpg-irubaqidze-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/geo/mbt/bpg-irubaqidze-webfont.svg#bpg_irubaqidzeregular') format('svg'); /* Legacy iOS */
          font-weight: 999;
 }
-/* eng */
+@font-face {
+    font-family: 'BPG Nuskha Modern';
+    src: url('../fonts/geo/nuskh/bpg-nuskha-modern-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/geo/nuskh/bpg-nuskha-modern-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/geo/nuskh/bpg-nuskha-modern-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/geo/nuskh/bpg-nuskha-modern-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/geo/nuskh/bpg-nuskha-modern-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/geo/nuskh/bpg-nuskha-modern-webfont.svg#bpg_nuskha_modernregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'BPG QuadroSquare Mtavruli';
+    src: url('../fonts/geo/qua/bpg-quadrosquare-mtavruli-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/geo/qua/bpg-quadrosquare-mtavruli-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/geo/qua/bpg-quadrosquare-mtavruli-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/geo/qua/bpg-quadrosquare-mtavruli-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/geo/qua/bpg-quadrosquare-mtavruli-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/geo/qua/bpg-quadrosquare-mtavruli-webfont.svg#bpg_quadrosquare_mtavruliregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'BPG DedaEna NonBlock';
+    src: url('../fonts/geo/ded/bpg-dedaena-nonblock-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/geo/ded/bpg-dedaena-nonblock-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/geo/ded/bpg-dedaena-nonblock-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/geo/ded/bpg-dedaena-nonblock-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/geo/ded/bpg-dedaena-nonblock-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/geo/ded/bpg-dedaena-nonblock-webfont.svg#bpg_dedaena_nonblockregular') format('svg'); /* Legacy iOS */
+}
+/* 
+        eng 
+*/
 @font-face {
     font-family: 'Anton';
     src: url('../fonts/eng/anton/Anton-Regular.eot');
@@ -58,4 +89,3 @@
     font-style: normal;
     font-display: swap;
 }
-

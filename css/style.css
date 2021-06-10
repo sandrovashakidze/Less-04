@@ -29,7 +29,6 @@
 .active{
 	color: #ee4036;
 }
-
 /* conteiner */
 .container{
 	width: 1170px;
@@ -75,7 +74,6 @@
 	margin-left: 35px;
 	font-family:'Stint Ultra Condensed', sans-serif;
 }         
-
 /* footer */
 .footer{
 	width: 1170px;
@@ -87,4 +85,73 @@
 	height: 27px;
 	background-color: green;
 	margin: 0 15px;
+}
+/* 
+  news.html
+*/
+.container1{
+	width: 1238px;
+	margin: 0 auto;
+}
+.data{
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 37px;
+	font-weight: 450;
+	padding: 10px;
+	color: white;
+}
+.data-mm{
+	font-size: 22px;
+	color: #3D58A6;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family:'BPG QuadroSquare Mtavruli', sans-serif;
+}
+.text-news{
+	width: 930px;
+	vertical-align: top;
+	margin-left: 30px;
+}
+.title-news{
+	font-size: 20px;
+	margin-bottom: 10px;
+	font-family:'BPG Nuskha Modern', sans-serif;
+
+}
+.p-text{
+	font-size: 16px;
+	font-family:'BPG DedaEna NonBlock', sans-serif;
+}
+/* 
+  contact.html
+*/
+.container2{
+	width: 1366px;
+	margin: 0 auto;
+	background-color: #E6E6E6;
+	padding: 39px 95px 65px  70px;
+}
+.info{
+	vertical-align: top;
+	margin-right: 60px;
+}
+
+.cont-info{
+	font-family:'BPG Nuskha Modern', sans-serif;
+}
+.add{
+	font-size: 16px;
+	font-family:'BPG QuadroSquare Mtavruli', sans-serif;
+}
+.anw{
+	font-size: 16px;
+	font-family:'BPG DedaEna NonBlock', sans-serif;
+}
+.map{
+	width:850px ;
+	height: 470px;
+	border: 0;
+	vertical-align: top;
 }
