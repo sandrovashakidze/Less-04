@@ -54,9 +54,11 @@
 	font-size: 24px;
 	margin-bottom: 30px;
 	cursor: pointer;
+	font-family:'Stint Ultra Condensed', sans-serif;
 }
 .feat{
 	text-transform: uppercase;
+	font-family:'Dancing Script', sans-serif;
 }
 .sat{
 	font-size: 22px;
@@ -66,8 +68,9 @@
 .text{
 	width: 355px;
 	vertical-align: top;
-	font-size: 20px;
+	font-size: 25px;
 	margin-left: 35px;
+	font-family:'Stint Ultra Condensed', sans-serif;
 }         
 
 /* footer */
